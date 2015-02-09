@@ -1,6 +1,6 @@
 ## Gradle Dockerfile
 
-This repository contains **Dockerfile** of [Gradle](https://gradle.org/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/dockerfile/elasticsearch/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
+This repository contains **Dockerfile** of [Gradle](https://gradle.org/) for [Docker](https://www.docker.com/)'s [automated build](https://registry.hub.docker.com/u/cogniteev/gradle/) published to the public [Docker Hub Registry](https://registry.hub.docker.com/).
 
 
 ### Base Docker Image
