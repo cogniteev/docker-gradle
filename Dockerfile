@@ -1,4 +1,4 @@
-FROM cogniteev/java8
+FROM dockerfile/java:oracle-java8
 MAINTAINER Cogniteev <tech@cogniteev.com>
 
 RUN wget https://services.gradle.org/distributions/gradle-2.2.1-bin.zip \
