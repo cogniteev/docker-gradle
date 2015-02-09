@@ -3,6 +3,4 @@ MAINTAINER Cogniteev <tech@cogniteev.com>
 
 RUN wget -q https://services.gradle.org/distributions/gradle-2.2.1-bin.zip \
     -O /tmp/gradle-2.2.1-bin.zip
-RUN apt-get install -y stow
-RUN cd /usr/local/stow && unzip /tmp/gradle-2.2.1-bin.zip
-RUN cd /usr/local/stow && stow gradle-2.2.1
+RUN cd /usr/local && unzip /tmp/gradle-2.2.1-bin.zip
