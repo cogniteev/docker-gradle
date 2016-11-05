@@ -18,5 +18,5 @@ This repository contains **Dockerfile** of [Gradle](https://gradle.org/) for [Do
 
 ### Content
 
-* [Gradle](https://gradle.org/) 2.2.1, available in `/usr/local/bin/gradle`
+* [Gradle](https://gradle.org/) 3.1, available in `/usr/local/bin/gradle`
 * [Stow](http://www.gnu.org/software/stow) (used to install `gradle` utility)
