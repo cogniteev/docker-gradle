@@ -1,7 +1,7 @@
 FROM cogniteev/oracle-java:java8
 MAINTAINER Cogniteev <tech@cogniteev.com>
 
-ENV VERSION=3.1
+ENV VERSION=4.4
 
 RUN apt-get update && wget -q \
   https://services.gradle.org/distributions/gradle-${VERSION}-bin.zip \
