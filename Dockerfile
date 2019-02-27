@@ -1,4 +1,4 @@
-FROM cogniteev/oracle-java:java8
+FROM dockerfile/java:oracle-java8
 MAINTAINER Cogniteev <tech@cogniteev.com>
 
 ENV VERSION=4.4
